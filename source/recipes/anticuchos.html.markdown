@@ -9,10 +9,10 @@ Ingredients:
 
 >  * 1/4 of a large bar of achiote paste; or 1/3 of a bar of small achiote paste
 >  * 8 tablespoons of olive oil
->  * 2 large garlic cloves
->  * 2 medium serrano chiles, trimmed and seeded
+>  * 4 large garlic cloves
+>  * 4 medium serrano chiles, trimmed and seeded
 >  * 3/4 cup red wine vinegar
->  * 1 teaspoon salt
+>  * 2 teaspoon salt
 >  * 2 1/2 lbs sirloin, cut into 1 inch cubes
 
 ---
