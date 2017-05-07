@@ -1,0 +1,11 @@
+.extra-pagination.inner
+  = partial('shared/pagination') if paginate
+
+- page_articles.each do |article|
+  %article.post
+    %header.post-header
+      %post-title= link_to article.title, article
+      %time.post-date{datetime: article.date.strftime('%Y-%m-%d')}
+        = article.date.strftime(blog_settings.date_format)
+
+= partial('shared/pagination') if paginate
