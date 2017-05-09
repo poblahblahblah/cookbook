@@ -17,6 +17,8 @@ Ingredients:
 >  * 8 piece of allspice
 >  * 1/2 teaspoon of cloves
 
+---
+
 Instructions:
 
 1. In a blender, blend annatto paste and the rest of the ingredients except banana leaves and pork.
