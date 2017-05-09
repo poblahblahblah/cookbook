@@ -2,7 +2,11 @@
 layout: post
 title:  "Coconut Curry Chicken Noodle Soup"
 date:   2017-04-09 20:00:00
-tags: [thai, curry, soups, chicken, vegetarian, vegan]
+tags: [thai, curry, soups, coconut, chicken, vegetarian, vegan]
+---
+
+To make vegetarian or vegan, ditch the chicken, use vegetable broth instead of chicken stock, and use Bragg's liquid amino's instead of fish sauce.
+
 ---
 
 Ingredients:
@@ -30,7 +34,7 @@ Ingredients:
 >   * 2 shallots, thinly sliced and deep fried in vegetable oil until brown (optional)
 >   * Quartered limes for serving
 
-Instructions:
+---
 
 1. Heat oil in a medium pot over medium heat. Add onion, ginger and lemon grass and cook, stirring, until softened, about 10 minutes. Do not brown; reduce heat if necessary. Add garlic and chili paste and stir until fragrant. Raise heat, add chicken and stir-fry one minute. Add curry powder and paprika and stir to coat. Then add coconut milk, half-and-half, chicken stock, turmeric, fish sauce, sugar and lime or curry leaves. Bring to a boil, then reduce heat and simmer until chicken is cooked through, about 7 minutes.
 
