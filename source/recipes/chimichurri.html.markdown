@@ -16,7 +16,7 @@ Ingredients:
 > * 2 teaspoons kosher salt (see note)
 > * 1 1/3 cups loosely packed flat-leaf parsley leaves
 > * 2/3 cup loosely packed cilantro leaves
-> * 6 medium garlic cloves , minced or pressed through garlic press (about 2 tablespoons)
+> * 3 medium garlic cloves, minced or pressed through garlic press (about 1 tablespoons)
 > * 1/2 teaspoon red pepper flakes
 > * 1/4 cup red wine vinegar
 > * 1/2 cup extra-virgin olive oil
