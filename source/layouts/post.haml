@@ -21,15 +21,8 @@
       %section.post-content= yield
 
       %footer.post-footer
-        %section.author
-        - if current_article.respond_to?("author")
-          %h4
-            %a{href: author_path}= current_article.author
-
-          %p
-            Read
-            %a{href: author_path} more posts
-            by this submitter.
+        %p
+          %a{href: "https://github.com/poblahblahblah/cookbook/commits/master/source/#{current_article.path}.markdown" } Recipe History
 
   %aside.read-next
     - if prev_article = current_article.previous_article
