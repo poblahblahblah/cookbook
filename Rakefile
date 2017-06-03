@@ -1,5 +1,5 @@
 deploy_default = "s3"
-s3_bucket       = "obrien-cookbook"
+s3_bucket       = "obrieneats.com"
 aws_cli_path    = "/usr/local/bin/aws"
 aws_region      = "us-west-1"
 
