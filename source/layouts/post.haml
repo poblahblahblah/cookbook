@@ -23,6 +23,7 @@
       %footer.post-footer
         %p
           %a{href: "https://github.com/poblahblahblah/cookbook/commits/master/source/#{current_article.path}.markdown" } Recipe Revisions
+          (#{count = `git log source/#{current_article.path}.markdown | grep Author`.scan(/Author/).count; if count < 2 then 0 else count end} total)
 
   %aside.read-next
     - if prev_article = current_article.previous_article

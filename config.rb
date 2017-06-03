@@ -4,12 +4,12 @@
 
 config[:casper] = {
   blog: {
-    url: 'https://patob.me',
+    url: 'https://obrieneats.com',
     name: 'O\'Brien Family Cookbook',
     description: 'A collection of cooking recipes from the O\'Brien family',
     date_format: '%B %Y',
     navigation: true,
-    logo: nil, # Optional
+    logo: nil,
   },
   author: {
     name: 'Patrick O\'Brien',
