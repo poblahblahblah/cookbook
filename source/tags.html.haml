@@ -8,12 +8,15 @@
         %span.word Menu
   .vertical
     .main-header-content.inner
-      %h1.page-title= "tags"
+      %h1.page-title= "Recipe Tags"
+      %h2.page-description= "Useful for searching for recipes by tags."
 
 %main#content.content{role: :main}
 
 :erb
-  <% blog.tags.each do |tag, articles| %>
+  <main class='content' role='main'>
+  <article class='post'>
+  <% blog.tags.sort.each do |tag, articles| %>
     &emsp; <%= link_to tag, tag_path(tag) %> (<%= articles.size %>)<br />
   <% end %>
 

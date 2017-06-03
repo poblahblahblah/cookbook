@@ -1,0 +1,20 @@
+---
+pageable: true
+per_page: 20
+---
+
+%header.main-header{cover}
+  %nav.main-nav.overlay.clearfix
+    - if blog_settings.navigation
+      %a.menu-button.icon-menu{href: '#'}
+        %span.word Menu
+  .vertical
+    .main-header-content.inner
+      %h1.page-title= "Recipe List"
+      %h2.page-description= "All of our recipes, sorted by date added."
+  %a.scroll-down.icon-arrow-left{href: '#content', data: {offset: '-45'}}
+    %span.hidden Scroll Down
+
+%main#content.content{role: :main}
+  = partial('shared/page_articles',
+            locals: { page_articles: page_articles, paginate: paginate })

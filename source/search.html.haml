@@ -1,0 +1,27 @@
+%header.main-header.tag-head{cover}
+  %nav.main-nav.overlay.clearfix
+    - if blog_settings.logo.present?
+      %a.blog-logo{href: home_path}
+        = image_tag blog_settings.logo, alt: blog_settings.name
+    - if blog_settings.navigation
+      %a.menu-button.icon-menu{href: '#'}
+        %span.word Menu
+  .vertical
+    .main-header-content.inner
+      %h1.page-title= "Search"
+      %h2.page-description= "Search by any keyword."
+
+%main#content.content{role: :main}
+
+:erb
+  <main class='content' role='main'>
+  <article class='post'>
+  <%= javascript_include_tag 'search' %>
+  
+  <p>
+    <input type="text" id="search" placeholder="Search..." width="100%">
+  </p>
+  
+  <div id="result-count"></div>
+  <div class="list-group searchresults"></div>
+
