@@ -9,7 +9,7 @@ config[:casper] = {
     description: 'A collection of cooking recipes from the O\'Brien family',
     date_format: '%B %Y',
     navigation: true,
-    logo: nil # Optional
+    logo: nil, # Optional
   },
   author: {
     name: 'Patrick O\'Brien',
@@ -21,7 +21,9 @@ config[:casper] = {
   },
   navigation: {
     "Home" => "/",
-    "Tags" => "/tags"
+    "Search" => "/search",
+    "All Recipes" => "/recipes",
+    "Recipes by Tag" => "/tags"
   }
 }
 
@@ -64,10 +66,10 @@ tags = resources
   .select { |resource| resource.data.tags }
   .each_with_object({}, &method(:group_lookup))
 
-tags.each do |tagname, articles|
-  proxy "/tag/#{tagname.downcase.to_s.parameterize}/feed.xml", '/feed.xml',
-    locals: { tagname: tagname, articles: articles[0..5] }, layout: false
-end
+#tags.each do |tagname, articles|
+#  proxy "/tag/#{tagname.downcase.to_s.parameterize}/feed.xml", '/feed.xml',
+#    locals: { tagname: tagname, articles: articles[0..5] }, layout: false
+#end
 
 proxy "/author/#{config.casper[:author][:name].parameterize}.html",
   '/author.html', ignore: true
@@ -84,12 +86,12 @@ end
 
 activate :blog do |blog|
   # This will add a prefix to all links, template references and source paths
-  # blog.prefix = "blog"
+  # blog.prefix = "recipe"
 
-  # blog.permalink = "{year}/{month}/{day}/{title}.html"
+  blog.permalink = "recipes/{title}.html"
   # Matcher for blog source files
   blog.sources = "recipes/{title}.html"
-  blog.taglink = "tag/{tag}.html"
+  blog.taglink = "tags/{tag}.html"
   # blog.layout = "layout"
   # blog.summary_separator = /(READMORE)/
   # blog.summary_length = 250
@@ -111,7 +113,7 @@ end
 activate :directory_indexes
 
 # Middleman-Syntax - https://github.com/middleman/middleman-syntax
-set :haml, { ugly: true }
+#set :haml, { ugly: true } # removed due to deprecation
 set :markdown_engine, :redcarpet
 set :markdown, fenced_code_blocks: true, smartypants: true, footnotes: true,
   link_attributes: { rel: 'nofollow' }, tables: true
@@ -130,20 +132,36 @@ activate :sprockets
 # Build-specific configuration
 configure :build do
   # Minify CSS on build
-  # activate :minify_css
+  activate :minify_css
 
   # Minify Javascript on build
-  # activate :minify_javascript
+  activate :minify_javascript
 
   # Enable cache buster
-  # activate :asset_hash
+  #activate :asset_hash do |asset_hash|
+  #  asset_hash.ignore = [/demos/]
+  #  asset_hash.exts = %w[ .css .js .png .jpg .eot .svg .ttf .woff .json ]
+  #end
 
   # Use relative URLs
-  # activate :relative_assets
+  activate :relative_assets
 
   # Ignoring Files
   ignore 'javascripts/_*'
   ignore 'javascripts/vendor/*'
   ignore 'stylesheets/_*'
   ignore 'stylesheets/vendor/*'
+
+  activate :search do |search|
+    search.resources = ['recipes/']
+
+    search.fields = {
+      title:   {boost: 100, store: true, required: true},
+      content: {boost: 50, store: true},
+      url:     {index: false, store: true},
+      author:  {boost: 30}
+    }
+  end
+
 end
+

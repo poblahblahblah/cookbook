@@ -36,6 +36,8 @@
     %link{rel: :stylesheet, type: 'text/css', href: '//fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,400'}
     = stylesheet_link_tag :application
   %body{class: "#{page_class} nav-closed"}
+    = javascript_include_tag :application
+    -#= search_lunr_js_pipeline
 
     = partial('shared/navigation')
 
@@ -54,4 +56,3 @@
           //Casper theme powered by
           //%a{href: 'https://ghost.org'} Ghost
 
-    = javascript_include_tag :application
