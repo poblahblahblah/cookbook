@@ -23,5 +23,7 @@ Ingredients:
 
 Instructions:
 
+Make sure the lettuce, especially at the base of the plant, is not too bitter. Cut away enough of the base if necessary, and this may mean that the recipe requires 2 heads of lettuce, depending on size and how much is removed.
+
 Combine in a food processor forever until smooth. I've found that right out of the food processor it's very airy, so we usually make it the night before and let it sit in the fridge overnight, although this is not necessary.
 
