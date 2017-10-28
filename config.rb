@@ -23,7 +23,8 @@ config[:casper] = {
     "Home" => "/",
     "Search" => "/search",
     "All Recipes" => "/recipes",
-    "Recipes by Tag" => "/tags"
+    "Recipes by Tag" => "/tags",
+    "Recipe Links" => "/links"
   }
 }
 
