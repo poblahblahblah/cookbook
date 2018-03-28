@@ -12,7 +12,7 @@ Ingredients:
 > * 1/2 Cup chopped onion
 > * 2/3 Cup. chopped celery (do NOT leave this out, even if you dislike celery)
 > * 2/3 Cup chopped carrots
-> * 3/4 pound ground beef chuck
+> * 3/4 pound ground beef chuck (or you can use 1 part pork to 2 parts beef)
 > * 1 Cup whole milk
 > * 1/8 teaspoon grated nutmeg
 > * 1 Cup dry white wine
@@ -36,4 +36,3 @@ Instructions:
 1. To serve: toss with cooked drained pasta, adding the final tablespoon of butter. Serve with the parmesan on the side. Hazan uses 1 1/4 lb of fresh pasta. I just cook what I think is enough for the meal and let people mix their own.
 
 If you're going to freeze the sauce, don't toss it with pasta. When you do serve it, reheat it and simmer for 15 minutes before adding pasta.
-
