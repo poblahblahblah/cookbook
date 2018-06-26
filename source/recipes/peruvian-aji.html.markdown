@@ -10,7 +10,7 @@ These days this is the Peruvian aji recipe that we make most often. It's very si
 ---
 
 Ingredients:
-
+>  * Juice of 1-2 lemons
 >  * 1 head of iceberg lettuce
 >  * 3 leaves of romaine lettuce
 >  * 7-8 Serrano Peppers (I leave seeds in)
@@ -25,5 +25,7 @@ Instructions:
 
 Make sure the lettuce, especially at the base of the plant, is not too bitter. Cut away enough of the base if necessary, and this may mean that the recipe requires 2 heads of lettuce, depending on size and how much is removed.
 
-Combine in a food processor forever until smooth. I've found that right out of the food processor it's very airy, so we usually make it the night before and let it sit in the fridge overnight, although this is not necessary.
+Juice the lemon(s). Chop the garlic and place in the lemon juice for 10-15 minutes. This will help take the bitter edge off of the garlic, as explained by [This Serious Eats Article](https://www.seriouseats.com/2016/03/the-food-lab-how-to-make-great-hummus.html#garlic). After 10 minutes remove the garlic from the lemon juice. Dicard the lemon juice.
+
+Combine all remaining ingredients, including the garlic, in a food processor forever until smooth. I've found that right out of the food processor it's very airy, so we usually make it the night before and let it sit in the fridge overnight, although this is not necessary.
 
