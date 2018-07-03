@@ -22,7 +22,7 @@ Ingredients:
 > * 1/2 head of green cabbage, roughly chopped
 > * (Optionally) Whatever other vegetables you want. Broccoli, cauliflower, zucchini, and brussels sprouts all work well.
 > * 1 medium serrano chile, seeds removed, chopped or cut in half
-> * [3 Tablespoons Annatto (achiote) oil](/recipes/annatto-oil)
+> * [3 Tablespoons Annatto (achiote) oil](/recipes/annatto-oil) -or- 1-2 Tablespoons of Achiote Paste
 > * 1 ripe tomato, quartered
 > * 1 Tablespoon red wine vinegar
 > * 1 teaspoon salt
@@ -39,6 +39,6 @@ Instructions:
 
 Combine 1/2 teaspoon of salt, cayenne, cumin, garlic powder, and black pepper. Thoroughly coat meat. Let stand while you prepare vegetables.
 
-Heat 2 Tablespoons of [Annatto oil](/recipes/annatto-oil) in heavy skillet over medium heat. Add bell peppers, onions, garlic, and chile, cabbage, and the heartier vegetables. Cover and cook until bell peppers and onions are soft, stirring occasionally, 10 - 15 minutes. Mix in tomato, remaining vegetables,  vinegar, 1/2 teaspoon of salt, and remaining [Annatto oil](/recipes/annatto-oil). Remove from heat.
+Heat 2 Tablespoons of [Annatto oil](/recipes/annatto-oil) or olive oil (if using achiote paste) in heavy skillet over medium heat. Add Add achiote paste (if using), bell peppers, onions, garlic, and chile, cabbage, and the heartier vegetables. Cover and cook until bell peppers and onions are soft, stirring occasionally, 10 - 15 minutes. Mix in tomato, remaining vegetables,  vinegar, 1/2 teaspoon of salt, and remaining [Annatto oil](/recipes/annatto-oil). Remove from heat.
 
 Serve over rice of french fried potatoes.
