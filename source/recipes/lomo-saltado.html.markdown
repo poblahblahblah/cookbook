@@ -20,7 +20,7 @@ Ingredients:
 > * 1 large red onion, thinly sliced
 > * 1 large garlic clove, finely chopped
 > * 1 medium serrano chile, seeds removed, chopped or cut in half
-> * [3 Tablespoons Annatto (achiote) oil](/recipes/annatto-oil)
+> * [3 Tablespoons Annatto (achiote) oil](/recipes/annatto-oil) -or- 1-2 Tablespoons of Achiote Paste
 > * 1 ripe tomato, quartered
 > * 1 Tablespoon red wine vinegar
 > * 1 teaspoon salt
@@ -38,7 +38,7 @@ Instructions:
 
 Combine 1/2 teaspoon of salt, cayenne, cumin, garlic powder, and black pepper. Thoroughly coat meat. Let stand while you prepare vegetables.
 
-Heat 2 Tablespoons of [Annatto oil](/recipes/annatto-oil) in heavy skillet over medium heat. Add bell peppers, onions, garlic, and chile. Cover and cook until bell peppers and onions are soft, stirring occasionally, 10 - 15 minutes. Mix in tomato, vinegar, 1/2 teaspoon of salt, and remaining [Annatto oil](/recipes/annatto-oil). Remove from heat.
+Heat 2 Tablespoons of [Annatto oil](/recipes/annatto-oil) or olive oil (if using achiote paste) in heavy skillet over medium heat. Add achiote paste (if using), bell peppers, onions, garlic, and chile. Cover and cook until bell peppers and onions are soft, stirring occasionally, 10 - 15 minutes. Mix in tomato, vinegar, 1/2 teaspoon of salt, and remaining [Annatto oil](/recipes/annatto-oil). Remove from heat.
 
 Heat large cast-iron skillet over high heat. Add vegetable oil, swirling to coat pan. Add meat and sear quickly on all sides. Continue cooking to desired doneness, turning occasionally. Remove from heat, add bell pepper and onion mixture.
 
