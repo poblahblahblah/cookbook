@@ -24,3 +24,5 @@ gem 'redcarpet', '~> 3.4.0'
 
 # For "summary"-Helper
 gem 'nokogiri', '~> 1.7.1'
+
+gem 'rake'
