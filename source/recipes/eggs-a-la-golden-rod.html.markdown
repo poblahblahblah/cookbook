@@ -22,6 +22,13 @@ Bechamel Sauce:
 >  * 3-4 Tablespoons flour
 >  * salt and pepper to taste
 
+High Altitude Bechamel Adjustment:
+> * 4 Tablespoons butter
+> * 5 Tablespoons of flour
+> * 2.5 Cups of milk
+
+At 7500 feet the trick was to reduce butter and add flour until it looked like the doughy low altitude flour / butter mixture. From there, slowly add milk until desired consistency. First attempt resulted in separated butter and flour that then burnt, turned brown, and smelled like burnt popcorn.
+
 Main:
 >  * 2 cups bechamel sauce
 >  * 6 English muffins
