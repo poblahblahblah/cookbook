@@ -1,10 +1,11 @@
 ###
 # middleman-casper configuration
 ###
+Haml::TempleEngine.disable_option_validator!
 
 config[:casper] = {
   blog: {
-    url: 'https://obrieneats.com',
+    url: 'https://obrieneats.com/',
     name: 'O\'Brien Family Cookbook',
     description: 'A collection of cooking recipes from the O\'Brien family',
     date_format: '%B %Y',
@@ -163,13 +164,7 @@ configure :build do
       author:  {boost: 30}
     }
   end
-
   activate :deploy do |deploy|
     deploy.deploy_method = :git
-    deploy.branch = 'gh-pages'
-  end
-end
-git
-    deploy.branch = 'gh-pages'
-  end
+  end  
 end
