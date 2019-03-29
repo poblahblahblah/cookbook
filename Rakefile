@@ -10,13 +10,12 @@ task :build do
   puts status ? "OK" : "FAILED"
 end
 
-desc "Deploy website via aws s3 sync"
-task :s3 do
-  puts "## Deploying website via aws s3 sync"
-  system("#{aws_cli_path} s3 sync build/ s3://#{s3_bucket}/ --region #{aws_region} --profile madelinefox")
+desc "Deploy website via middleman-deploy to gh-pages branch"
+task :deploy_pages do
+  puts "## Deploying website to gh-pages"
+  system("middleman deploy")
 end
 
-desc "Deploy files to S3"
-task :deploy => [:build, :s3]
+task :deploy => [:build, :deploy_pages]
 task :default => :deploy
 
