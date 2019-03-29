@@ -14,6 +14,7 @@ gem 'middleman', '~> 4.0'
 gem 'middleman-blog', '~> 4.0'
 gem 'middleman-sprockets', '~> 4.1.0'
 gem 'middleman-search'
+gem 'middleman-deploy', :git => 'https://github.com/karlfreeman/middleman-deploy.git'
 
 # For feed.xml.builder
 gem 'builder', '~> 3.2.3'

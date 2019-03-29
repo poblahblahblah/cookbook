@@ -164,5 +164,12 @@ configure :build do
     }
   end
 
+  activate :deploy do |deploy|
+    deploy.deploy_method = :git
+    deploy.branch = 'gh-pages'
+  end
 end
-
+git
+    deploy.branch = 'gh-pages'
+  end
+end
