@@ -46,6 +46,8 @@ Instructions:
 
 1. 30 minutes before baking, adjust oven rack to middle position and preheat oven to 550°F, or as high as your oven will go. Carefully remove plastic wrap from pizza dough. Using oiled hands and being as gentle as possible to maintain air bubbles, push and stretch the dough into the corners of the pan by pressing out from the center and lifting each corner and stretching it beyond the edge of the pan. It should pull back until the pan is just filled with dough.
 
-1. Top pizza as desired, cheese first, then basil, then sauce. Bake until bottom is crisp and top surface is bubbling, 15 to 20 minutes total. Allow to cool at room temperature for 5 minutes.
+1. Top pizza as desired, cheese first, then basil, then sauce. Be sure to sprinkle enough cheese around the edge of the pan where the dough meets the metal of the pan. This will crisp up and make the crust amazing.
+
+1. Bake until bottom is crisp and top surface is bubbling, 15 to 20 minutes total. Allow to cool at room temperature for 5 minutes.
 
 <font size=1>Originally taken from <a href="https://www.seriouseats.com/recipes/2012/07/basic-square-pan-pizza-dough-recipe-sicilian-recipe.html">Serious Eats - Basic Square Pan Pizza Dough Recipe (Sicilian-Style Dough)</a>
