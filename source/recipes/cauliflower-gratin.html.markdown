@@ -11,13 +11,13 @@ This is a great way to use cauliflower.
 
 Ingredients:
 
-> * 2 large (8 ounces) fresh poblano chiles, roasted, peeled, seeds discarded
+> * 3 large (8 ounces) fresh poblano chiles, roasted, peeled, seeds discarded
 > * 3 pounds cauliflower cut into bite-size florets
 > * 2 tablespoons butter
 > * 1/4 cup diced shallots
 > * 1 tablespoon flour
 > * 1 1/2 cup heavy cream
-> * 1/4 cup grated Mexican queso anejo or other garnishing cheese such as Romano or Parmesan
+> * 1/4 cup grated Mexican queso anejo or cotija
 > * Salt
 
 Topping:
@@ -25,7 +25,7 @@ Topping:
 > * 1/2 cup panko
 > * 1/2 cup finely chopped almonds
 > * 1 tablespoon olive oil
-> * 3 tablespoons grated Mexican queso anejo for garnish
+> * 3 tablespoons grated Mexican queso anejo or cotija for garnish
 
 ---
 
