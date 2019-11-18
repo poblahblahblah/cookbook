@@ -9,7 +9,7 @@ We attempted to make a large version of these. While less tedious, it was much l
 
 ---
 
-Ingredients:
+Dough:
 
 > * 1 cup softened butter
 > * 1/3 cup heavy whipping cream
@@ -17,10 +17,10 @@ Ingredients:
 
 Filling:
 
-> * 1/4 cup butter
-> * 3/4 cup powdered sugar, sifted
-> * 1 egg yolk
-> * 1 tsp vanilla
+> * 1/2 cup butter
+> * 1.2 cup powdered sugar, sifted
+> * 2 egg yolk
+> * 2 tsp vanilla
 > * food coloring, if desired
 
 ---
