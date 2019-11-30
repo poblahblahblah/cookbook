@@ -23,7 +23,7 @@ Ingredients:
 ---
 
 1. Preheat oven to 350F
-1. Generously butter 2 quart rectangular casserole dish
+1. Generously butter 1.5 or 2 quart round casserole dish
 1. Puree 1 cup of corn with butter and eggs in a blender or food processor
 1. Mix remaining ingredients in a medium bowl, add pureed mixture and mix well.
 1. Pour into prepared pan and bake, uncovered, 50-60 minutes.
