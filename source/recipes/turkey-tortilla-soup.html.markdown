@@ -7,6 +7,8 @@ tags: [turkey, chicken, soup]
 
 What you should do with the turkey carcass after Thanksgiving.
 
+Mom (Grandma Susan) first made a version of this back in 1995 (or so), but found the Rick Bayless recipe and that was even better.  A family favorite.
+
 ---
 
 Ingredients:
