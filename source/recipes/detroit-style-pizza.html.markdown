@@ -19,10 +19,10 @@ My modifications are increasing the bread flour and water (in proportion) in ord
 
 Dough Ingredients:
 
-> * 350g bread flour
+> * 375g bread flour
 > * 5g instant yeast
 > * 9g salt
-> * 255g water
+> * 275g water
 > * Extra-virgin olive oil, as needed
 
 Topping Ingredients:
