@@ -56,4 +56,6 @@ Instructions:
 
 1. Preheat the oven to 450F. Once at temp, bake the pizza for 15-17 minutes, or until it looks done.
 
+1. Once it's out of the oven slightly lift the pizza out of the pan using an offset spatula to get a peak at the bottom crust. If the bottom is too pale you can toss this on your stove for a little bit to crisp up more.
+
 <font size=1>Recipe adapted from [Serious Eat's Detroit-Style Pan Pizza Recipe](https://www.seriouseats.com/detroit-style-pizza-recipe).
